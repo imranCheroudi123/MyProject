@@ -1,0 +1,7 @@
+git reset head imran ===> remove this file 'imran'
+
+git status ===> see elements this fils
+
+git add imran ===> add imran to this file
+
+git add * ===> add all file to this file
