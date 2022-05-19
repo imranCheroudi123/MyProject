@@ -1,3 +1,5 @@
+git clone link de github
+
 git reset head imran ===> remove this file 'imran'
 
 git status ===> see elements this fils
@@ -5,3 +7,142 @@ git status ===> see elements this fils
 git add imran ===> add imran to this file
 
 git add * ===> add all file to this file
+
+git commit -m "my messagges pour ce qui j'ai change"
+
+git remote -v ====> origin  https://github.com/imranCheroudi123/MyProject.git
+
+git branch ===> main
+
+git pull origin  ===> derier version de ce project 
+
+
+git config -l =====> git all configuration
+
+git config --global user.email  =====> imranchroudi97@gmail.com
+
+git config --global user.name "imran Cheroudu" ====> "imran Cheroudu"
+
+git config --global --unset  user.name   =====> supremmier user.name
+
+git config --global --edit
+
+
+
+
+
+
+
+
+/=========A =
+
+
+
+ssh-keygen -t rsa -b 4096 -C "imran-_-maroc@gmail.com" ===> Add Key 
+
+ssh -T git@github.com
+
+cat ~/.ss/id-rsa.pub
+
+ssh-keygen -t ed25519 -C "begdouriimran@example.com"
+
+ssh-keygen -p -f C:\Users\imran/.ssh/id_ed25519
+
+
+
+
+type nul > hello.txttype nul > hello.txt ====>add file par terminal
+
+
+git remote add origin git@github.com:imranCheroudi123/course.git ====> add file a git hub
+
+
+git push -u origin main
+
+
+
+
+تعلم Git + GitHub درس 11# - تعلم كل شيء عن الأسماء المستعارة Alias لتوفير الوقت
+
+
+
+git config --global alias.st status ====> git status === git st
+
+git config --global alias.br branch ====> git branch === git br
+
+git config --global alias.cm "commit -m" ====> git commit -m === git cm
+
+git config --global alias.c-g "config --global"  =====> git config --global === git c-g
+
+
+
+تعلم Git + GitHub درس 12# - تعلم كل شيء عن ال Branching وكيفية الدمج
+
+
+git branch scroll 
+
+
+git branch ====> 1) main == principe
+                 2) scroll
+
+git checkout  scroll 
+
+git branch ====> 1) main 
+                 2) scroll  == principe
+
+git branch -d scroll == delete scroll
+
+git checkout -b dev-Feature 
+
+git branch ====> 1) main 
+                 2) dev-Feature == principe
+
+
+git marge Developement ====> main == Developement 
+
+git branch -D scrool === marge avec main et delete 
+
+
+تعلم Git + GitHub درس 13# - تعلم كل شيء عن ال Stash وتخزين الملفات الجزء الأول
+
+
+اضافه مجموعه من الملفات وفي الاخيره علمت اني لن احتاجهم ولكن لا اريد ان احذفهم ولهذا ساضع في مكان ما عبر هذه الطريقه
+
+
+git stash ===>  تخزين الملفات
+
+git stash list
+
+git stash pop
+
+تعلم Git + GitHub درس 14# - تعلم كل شيء عن ال Stash وتخزين الملفات الجزء الثاني
+
+
+git stash save "osx text"  ===> ajouter file sur cofre avec message "osx text"
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
